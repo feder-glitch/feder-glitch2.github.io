@@ -1,11 +1,9 @@
-~$   git clone https://github.com/feder-gltich2/feder-glitch2.github.io
 !DOCTYPE <html> 
 <html>
          <head>
               <meta charset="utf-8">  
             <title>Meine Testseite</title     
-                 >title
-                 </meta>
+                  /meta>
          </head>                   
                   <body>
             <a href="https://developer.mozilla.org/de/docs/Learn/Getting_started_with_the_web/HTML_basics">Mozilla Manifesto</a>
