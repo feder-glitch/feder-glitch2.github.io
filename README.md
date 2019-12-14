@@ -2,11 +2,11 @@
 <html>
          <head>
               <meta charset="utf-8">  
-            <title>Da Vinci</title>    
+                  <title Da Vinci </title>
                   
          </head>                   
                   <body>
-            <a href="https://developer.mozilla.org/de/docs/Learn/Getting_started_with_the_web/HTML_basics">Mozilla Manifesto</a>
+            <a href="https://developer.mozilla.org/de/docs/Learn/Getting_started_with_the_web/HTML_basics"/a>
             <h1>Da Vinci code</h1>
                 
             <p>Der Mann</p>
