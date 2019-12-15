@@ -8,13 +8,13 @@
                   <body>
           
             <h1>Da Vinci code</h1>
-                 <img src="images/firefox-icon.png" alt="Das Firefox-Logo: Ein brennender Fuchs, welcher die Erde umkreist"></img>
+                 <img src="http://samui-art-gallery.com/wp-content/uploads/2011/02/Leonardo_Da-Vinci-img1.jpg">lL PAPA  </img>
               
             <p>Der Mann</p>
          <ul>
              <li>unerreichter Blühte</li>
              <li>magischen Fähigkeiten</li>
-            <li>unerschütterlicher Geist</li>
+             <li>unerschütterlicher Geist</li>
              <p>,der Alles schaffte </p>         
                 </ul>    
               
